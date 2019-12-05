@@ -16,7 +16,7 @@ void loop()
 {
   while(1)
   {
-  Serial.println(LLtoUTM(49.223248, 16.591355)); //can by chaneg to stream from GPS
+  Serial.println(LLtoUTM(49.223248, 16.591355)); //can be chaneg to stream from GPS
   }
 }
 
